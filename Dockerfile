@@ -64,4 +64,4 @@ USER odoo
 
 # Set default command
 ENTRYPOINT ["/entrypoint.sh"]
-CMD ["odoo", "-d", "prueba"]
+CMD ["odoo"]
